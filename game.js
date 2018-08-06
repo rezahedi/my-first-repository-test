@@ -1,4 +1,4 @@
-// Canvas Asteroids
+// Canvas Asteroids Salamm
 //
 // Copyright (c) 2010 Doug McInnes
 //
