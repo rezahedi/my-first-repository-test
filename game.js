@@ -3,6 +3,8 @@
 // Copyright (c) 2010 Doug McInnes
 //
 
+// new-branch a
+
 var ipad = navigator.userAgent.match(/iPad/i) != null;
 
 if (ipad) {
